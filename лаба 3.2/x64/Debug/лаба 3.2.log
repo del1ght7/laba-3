@@ -1,0 +1,14 @@
+﻿  лаба 3.2.cpp
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(25,15): error C2131: выражение не определяется константой
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(25,15): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(25,15): message : см. использование "len"
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(39,20): error C3863: тип массива "float [len]" является неназначаемым
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(40,20): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "float [len]"
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(70,24): error C3863: тип массива "float [len]" является неназначаемым
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(80,16): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "float [len]"
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(19,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(27,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(31,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(47,21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\лаба 3.2\лаба 3.2.cpp(58,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
